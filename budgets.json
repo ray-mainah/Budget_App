@@ -1,0 +1,90 @@
+{
+  "currency": "KES",
+  "income": 65000.0,
+  "fixed_categories": [
+    "Rent",
+    "Utilities"
+  ],
+  "savings_category": "Savings & Transfers",
+  "budgets": {
+    "Rent": 18000,
+    "Utilities": 2000,
+    "Groceries": 10000,
+    "Eating out": 3600,
+    "Transport": 5700,
+    "Airtime & Data": 2100,
+    "Entertainment": 2800,
+    "Health": 2800,
+    "Shopping": 5000,
+    "Savings & Transfers": 13000
+  },
+  "rules": {
+    "Rent": [
+      "rent"
+    ],
+    "Groceries": [
+      "naivas",
+      "quickmart",
+      "carrefour",
+      "chandarana",
+      "greengrocer",
+      "supermarket"
+    ],
+    "Eating out": [
+      "java",
+      "kfc",
+      "artcaffe",
+      "cafe",
+      "restaurant",
+      "pizza",
+      "glovo",
+      "uber eats"
+    ],
+    "Transport": [
+      "uber",
+      "bolt",
+      "little cab",
+      "matatu",
+      "fuel",
+      "petrol",
+      "shell",
+      "rubis",
+      "total energies"
+    ],
+    "Utilities": [
+      "kplc",
+      "kenya power",
+      "nairobi water",
+      "zuku",
+      "safaricom home",
+      "stima"
+    ],
+    "Airtime & Data": [
+      "airtime",
+      "bundle",
+      "data"
+    ],
+    "Entertainment": [
+      "netflix",
+      "spotify",
+      "showmax",
+      "cinema",
+      "imax"
+    ],
+    "Health": [
+      "pharmacy",
+      "hospital",
+      "clinic",
+      "chemist",
+      "sha ",
+      "nhif"
+    ],
+    "Savings & Transfers": [
+      "mshwari",
+      "m-shwari",
+      "kcb mpesa",
+      "sacco",
+      "money market"
+    ]
+  }
+}

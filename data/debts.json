@@ -1,0 +1,30 @@
+{
+  "m-984f998c53": {
+    "date": "2026-10-03",
+    "counterparty": "Kevin Mong'are",
+    "amount": -1500.0,
+    "note": "",
+    "source": "manual"
+  },
+  "m-90003b2b8f": {
+    "date": "2026-10-20",
+    "counterparty": "KCB bank",
+    "amount": 1430.0,
+    "note": "",
+    "source": "manual"
+  },
+  "m-a015a2d471": {
+    "date": "2026-10-14",
+    "counterparty": "Arnest Mwakenya",
+    "amount": -600.0,
+    "note": "",
+    "source": "manual"
+  },
+  "3fbac29ef4dc": {
+    "date": "2026-10-12",
+    "counterparty": "MPesa to - 254796***547 Arnest Mwakenya",
+    "amount": -300.0,
+    "note": "Customer Transfer Fuliza MPesa to - 254796***547 Arnest Mwakenya",
+    "source": "transaction"
+  }
+}

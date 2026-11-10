@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rent",
+    "match": "0010292378655",
+    "amount": 12000.0,
+    "due_day": 5
+  },
+  {
+    "name": "Internet",
+    "match": "11624601",
+    "amount": 3000.0,
+    "due_day": 28
+  }
+]
